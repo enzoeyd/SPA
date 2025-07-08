@@ -176,7 +176,7 @@
                     </svg>
                 <div class="article2">
                     <div class="image">
-                        <img src="image_video/animaux/250268711037693.jpg" style="max-width :75%;height : auto;margin-left: 25%;" >
+                        <img src="image_video/animaux/250268600394587.jpg" style="max-width :75%;height : auto;margin-left: 25%;" >
                     </div>
                     <div class="cont">
                         <div class="titre">
@@ -273,7 +273,7 @@
                     </div>
                     <div class='text_art4'>
                         <h1> Un refuge sur le site de Polignac </h1>
-                        <p> <p>
+                        <p> Le refuge de la SPA de Polignac est un havre de paix dédié au bien-être et à la protection des animaux. Niché dans un cadre verdoyant et apaisant, ce refuge offre un abri sûr et chaleureux à de nombreux animaux abandonnés ou maltraités. L'équipe dévouée de la SPA de Polignac s'engage quotidiennement à prodiguer des soins attentifs et à trouver des familles aimantes pour chaque pensionnaire. En plus de ses missions de sauvetage et d'adoption, le refuge sensibilise le public à la cause animale à travers diverses initiatives éducatives. C'est un lieu où l'amour et le respect des animaux sont au cœur de chaque action, faisant de ce refuge un pilier essentiel de la communauté locale en matière de protection animale.<p>
                     </div>
 
 
