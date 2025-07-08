@@ -13,9 +13,9 @@
                 session_destroy();
 
             }
-            $dsn = 'mysql:host=localhost;dbname=u953351322_spahauteloire;charset=utf8';
-            $username='u953351322_spa43';
-            $password='Animaux43.';
+            $dsn = 'mysql:host=db.fr-pari1.bengt.wasmernet.com;dbname=data_t;charset=utf8';
+            $username='d323f2ba7121800092e5cb212ee1';
+            $password='0686d323-f2ba-72eb-8000-05b64f18c32d';
             $pdo = new PDO($dsn, $username, $password);
             $valeursauv=$_GET['Sauvetage'];
             $valeurrace=$_GET['races'];
